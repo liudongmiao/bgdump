@@ -1,0 +1,7 @@
+bgdump v0.1
+
+A tool based on librtmp, download audio bible from biblegateway
+librtmp: http://rtmpdump.mplayerhq.hu
+biblegateway: http://www.biblegateway.com
+
+Note: only for personal usage.
